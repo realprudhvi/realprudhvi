@@ -1,6 +1,6 @@
-# Hi there! I'm a Software Development Engineer (SDE I)
+# Hey, I'm Prudhvi
 
-I am a backend engineer passionate about building robust, scalable applications and distributed data processing systems. My expertise lies in the Java/Spring ecosystem, containerization, big data frameworks, and relational databases.
+Backend engineer focused on building backend applications with **Java** & **Spring Boot**.
 
 ---
 
@@ -31,9 +31,15 @@ I am a backend engineer passionate about building robust, scalable applications 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" />
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB" />
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" title="Redis" />
+  </a>
 </p>
 
-### DevOps & Containment
+### DevOps & Containerization
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" />
@@ -59,17 +65,17 @@ I am a backend engineer passionate about building robust, scalable applications 
   </a>
 </p>
 
----
-
-## What I Focus On
-* **Backend Architecture:** Designing clean, maintainable RESTful services using Spring Boot.
-* **Distributed Computing:** Processing large datasets and writing map-reduce workflows with Apache Spark and Hadoop.
-* **Infrastructure & CI/CD:** Streamlining development environments using Docker and setting up automation workflows with Jenkins.
-* **Database Optimization:** Designing normalized schemas and writing efficient SQL queries.
+### Problem Solving & Data Structures
+<p align="left">
+  <a href="https://leetcode.com/u/realprudhvi/" target="_blank" rel="noreferrer">
+    <img src="./icons/leetcode.png" width="48" height="48" alt="LeetCode" title="LeetCode" />
+  </a>
+</p>
 
 ---
 
 ## Let's Connect!
-* **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+
+* **LinkedIn:** [linkedin.com/in/realprudhvi](https://linkedin.com/in/realprudhvi)
+* **LeetCode:** [leetcode.com/u/realprudhvi](https://leetcode.com/u/realprudhvi/)
+* **Email:** [realprudhvi@gmail.com](mailto:realprudhvi@gmail.com)
