@@ -1,6 +1,6 @@
 # Hey, I'm Prudhvi
 
-Backend engineer focused on building backend applications with **Java** & **Spring Boot**.
+Backend engineer passionate about architecting scalable RESTful web applications and robust backend services using **Java** & **Spring Boot**. Dedicated to writing clean, maintainable code, optimizing database performance, and tackling complex algorithmic challenges.
 
 ---
 
@@ -10,6 +10,9 @@ Backend engineer focused on building backend applications with **Java** & **Spri
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" title="Python" />
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Ecosystem" title="Spring Ecosystem" />
